@@ -1,0 +1,6 @@
+F:\Мои документы\c+++\ШАГ\C#\Client_Bank\WorkWithBase\bin\Debug\WorkWithBase.dll
+F:\Мои документы\c+++\ШАГ\C#\Client_Bank\WorkWithBase\bin\Debug\WorkWithBase.pdb
+F:\Мои документы\c+++\ШАГ\C#\Client_Bank\WorkWithBase\obj\Debug\WorkWithBase.csprojAssemblyReference.cache
+F:\Мои документы\c+++\ШАГ\C#\Client_Bank\WorkWithBase\obj\Debug\WorkWithBase.csproj.CoreCompileInputs.cache
+F:\Мои документы\c+++\ШАГ\C#\Client_Bank\WorkWithBase\obj\Debug\WorkWithBase.dll
+F:\Мои документы\c+++\ШАГ\C#\Client_Bank\WorkWithBase\obj\Debug\WorkWithBase.pdb
